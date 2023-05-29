@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Soapdasnake
+- 👋 Hi, I’m @SophieChenly
 - 👀 I’m interested in making games and fun art pieces
-- 🌱 I’m currently learning basic foundations
-- 💞️ I’m looking to collaborate on nothing yet :p
-- 📫 How to reach me @soap_da_snake on ig
+- 🌱 I’m currently searching for intenship positions
 
 <!---
 Soapdasnake/Soapdasnake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
