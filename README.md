@@ -1,5 +1,6 @@
 Hi, I’m @SophieChenly
 I’m interested in web development, game development, cybersecurity and data science and have experience working with frameworks such as react.js and node.js in a publicly deployed trading website.
+I am currently familiar with the following languages/libraries: Javascript, React.js, Python, Java, C++
 I’m currently searching for intenship positions, please feel free to reach out to my email sophiechenly@gmail.com or my [LinkedIn](https://hk.linkedin.com/in/sophie-chen-593154248)!
 
 <!---
